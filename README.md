@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=75BDE0&height=300&section=header&text=Welcome%20to%20the%20SHOW&fontSize=90"/><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=75BDE0&height=300&section=header&text=Hello%20Hyu-noo&fontSize=90"/><br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyu-noo%2Fhit-counter&count_bg=%2377BBDF&title_bg=%23E4E9EA&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Java&logoColor=white"/>
 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyu-noo&langs_count=10&layout=compact&theme=black)](https://github.com/Hyu-noo/Hyu-noo)﻿
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyu-noo&langs_count=10&layout=compact&theme=dark)](https://github.com/Hyu-noo/Hyu-noo)﻿
 
 <!--
 **Hyu-noo/Hyu-noo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
